@@ -1,6 +1,7 @@
 MAESTRO-Deep-Learning-Approaches-to-Melody-Reduction
 =========================================
 This is the final project of GCT634 : Musical Applications of Machine Learning.
+(https://drive.google.com/file/d/1fi1ydA8GyhhVYWBioYLtTOX08QnjIS6c/view?usp=sharing)
 
 ---
 ABSTRACT
